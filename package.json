@@ -1,9 +1,7 @@
 {
-    "name": "fuse-angular",
-    "version": "15.0.0",
-    "description": "Fuse - Angular Admin Template and Starter Project",
-    "author": "https://themeforest.net/user/srcn",
-    "license": "https://themeforest.net/licenses/standard",
+    "name": "msr-dboard-fe",
+    "version": "1.0.0",
+    "description": "MSR Project Management Portal",
     "private": true,
     "scripts": {
         "ng": "ng",
