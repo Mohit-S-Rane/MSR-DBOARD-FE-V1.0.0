@@ -33,15 +33,15 @@ export interface AppConfig
  * "Themes" are required for Tailwind to generate themes.
  */
 export const appConfig: AppConfig = {
-    layout : 'classy',
-    scheme : 'light',
+    layout : 'thin',
+    scheme : 'dark',
     screens: {
         sm: '600px',
         md: '960px',
         lg: '1280px',
         xl: '1440px'
     },
-    theme  : 'theme-default',
+    theme  : 'theme-teal',
     themes : [
         {
             id  : 'theme-default',
