@@ -36,9 +36,10 @@
 
                 <!-- Basic -->
                 <ng-container *ngIf="item.type === 'basic'">
-                    <fuse-vertical-navigation-basic-item
+                    <fuse-vertical-navigation-basic-item class="mb-0"
                         [item]="item"
-                        [name]="name"></fuse-vertical-navigation-basic-item>
+                        [name]="name"
+                        [tooltip]="tooltip"></fuse-vertical-navigation-basic-item>
                 </ng-container>
 
                 <!-- Collapsable -->
