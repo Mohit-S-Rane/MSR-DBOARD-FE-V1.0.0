@@ -50,7 +50,8 @@ export type FuseVerticalNavigationAppearance =
     | 'default'
     | 'compact'
     | 'dense'
-    | 'thin';
+    | 'thin'
+    | 'board';
 
 export type FuseVerticalNavigationMode =
     | 'over'
