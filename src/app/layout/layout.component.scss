@@ -24,3 +24,9 @@ layout {
         }
     }
 }
+
+.bg-img-1 {
+    background-image: url(../../assets/images/demo/background-1.jpg);
+    background-repeat: no-repeat, no-repeat;
+    background-position: right, left; 
+}
